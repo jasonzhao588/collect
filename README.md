@@ -40,12 +40,16 @@ Html代码
 ```html
 <div>Hello World!!</div>
 ```
+
 Stylus代码
+```stylus
 $primary = red
 .wrapper
   color:$primary
   .box
     font-size:14px
+```
+
 
 JavaScript代码
 ```js
