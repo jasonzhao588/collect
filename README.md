@@ -21,7 +21,7 @@
 - [Cube-ui](https://didi.github.io/cube-ui)  滴滴出品的轻量级组件库
 
 ## Vue独立组件
-
+- [Waves](http://fian.my.id/Waves/#examples)  仿Material Design点击特效
 
 ## 实用库
 
