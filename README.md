@@ -58,8 +58,15 @@ var a = 10, b = 20
 console.log(a+b)
 ```
 
+Bash
+```bash
+npm install vue
+yarn add vue
+yarn dev
+```
+
 Python代码
-```phthon
+```python
 a = 10
 b = 12
 print(a+b)
