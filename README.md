@@ -59,7 +59,7 @@ console.log(a+b)
 ```
 
 Bash
-```bash
+```shell
 npm install vue
 yarn add vue
 yarn dev
