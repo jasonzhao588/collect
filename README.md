@@ -32,6 +32,8 @@
 ## 服务端
 
 ## 辅助工具
+- [FishShell](https://fishshell.com)  一个强大的Shell工具
+- [Oh-My-Fish](https://github.com/oh-my-fish/oh-my-fish)   Fish 管理工具
 
 ## 应用实例
 
